@@ -19,10 +19,9 @@ Members of the Activity group
 
 {{< alert >}}
 
-**Want to be listed?** To add your site/details to this list, 
+**Want to be listed?** To add your site/details to this list,
 <!-- [submit a pull request](https://github.com/nunocoracao/blowfish/blob/dev/exampleSite/content/users/users.json). -->
 
 {{</ alert >}}
 
 </BR>
-
