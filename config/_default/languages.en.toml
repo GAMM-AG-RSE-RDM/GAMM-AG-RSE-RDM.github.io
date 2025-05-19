@@ -1,0 +1,12 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "GAMM RSE & RDM"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+logo = "img/Logo.png"
+rtl = false
+dateFormat = "2 January 2006"

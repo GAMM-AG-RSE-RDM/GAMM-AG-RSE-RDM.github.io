@@ -1,0 +1,28 @@
+[[main]]
+name = "ABOUT"
+pageRef = "index"
+weight = 10
+
+
+[[main]]
+name = "NEWS"
+pageRef = "news"
+weight = 20
+
+[[main]]
+name = "MEMBERS"
+pageRef = "members"
+weight = 30
+
+[[main]]
+name = "ALLIES"
+pageRef = "allies"
+weight = 40
+
+[[main]]
+pre = "github"
+url = "https://github.com/GAMM-AG-RSE-RDM/"
+weight = 50
+
+[[footer]]
+none = "none"
