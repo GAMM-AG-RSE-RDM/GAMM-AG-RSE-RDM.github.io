@@ -1,5 +1,7 @@
 {
     "name": "Jens Saak",
+	"image": "img/authors/jsaak.jpg",
+	"bio": "Team Leader 'Data, Infrastructure, Software & Computing' at the Max Planck Intitute for Dynamics of Complex Technical Systems Magdeburg",
     "social": [
         {
             "github": "https://github.com/drittelhacker"
