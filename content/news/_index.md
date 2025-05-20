@@ -1,1 +1,3 @@
-Our first news
+---
+title: "News"
+---
