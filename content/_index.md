@@ -13,5 +13,8 @@ The GAMM RSE & RDM chairs are  (interim at least until the kick-off workshop):
 - Dr. Robert Speck (Forschungszentrum Jülich)
 - Dr. Jan Philipp Thiele (TU Braunschweig)
 
+{{< button href="https://www.listserv.dfn.de/sympa/subscribe/gamm-rse%2Brdm">}}
+Join the GAMM RSE & RDM mailing list
+{{</ button >}}
 
 {{< list limit=2 cardView=true where="Type" value="news" title="Recent News" >}}
