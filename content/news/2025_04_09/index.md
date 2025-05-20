@@ -12,5 +12,5 @@ authors:
 
 During the GAMM general assembly 2025 in Poznań, Poland,
 newly established activity groups were announced.
-This is included our application for this activity group on *RSE & RDM in Mathematics & Mechanics*,
+This included our application for this activity group on *RSE & RDM in Mathematics & Mechanics*,
 as well as the activity group on *Interfacial and Multiphase Flow*.
