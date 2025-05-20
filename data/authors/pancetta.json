@@ -1,3 +1,8 @@
 {
-    "name": "Robert Speck"
+    "name": "Robert Speck",
+    "image": "img/authors/rspeck.jpg",
+    "bio": "Deputy director at Jülich Supercomputing Centre",
+    "social": [
+        { "github": "https://github.com/pancetta"}
+    ]
 }
