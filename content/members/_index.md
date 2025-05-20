@@ -14,13 +14,14 @@ groupByYear: false
 ---
 
 
-Members of the Activity group
+Membership to GAMM RSE & RDM is free of charge, 
+but we'd like our members to actively engage in the activity group through discussions and workshop participation.
 
+<br>
 
 {{< alert >}}
-
-**Want to be listed?** To add your site/details to this list,
-<!-- [submit a pull request](https://github.com/nunocoracao/blowfish/blob/dev/exampleSite/content/users/users.json). -->
+**Want to be listed?** To add yourself to this list,
+follow the [*how to*]({{< ref "howto/member_list" >}})
 
 {{</ alert >}}
 
