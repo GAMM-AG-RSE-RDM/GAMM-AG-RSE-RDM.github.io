@@ -7,7 +7,7 @@ showAuthor: true
 authors:
   - "jpthiele"
   - "drittelhacker"
-  - "pancetta"
+  - "rspeck"
 ---
 
 During the GAMM general assembly 2025 in Poznań, Poland,
