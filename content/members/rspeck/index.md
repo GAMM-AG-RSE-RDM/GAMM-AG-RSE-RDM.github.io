@@ -1,6 +1,9 @@
 ---
 title: "Robert Speck"
-tags: ["Chair","GAMM member","de-RSE member"]
+Chair: "Chair"
+tags: ["RSE","RDM"]
+memberships: ["DE-RSE","GAMM"]
+country: "Germany"
 externalUrl: "https://www.fz-juelich.de/profile/speck_r"
 showTaxonomies: true
 showDate: false
