@@ -1,6 +1,9 @@
 ---
 title: "Jens Saak"
-tags: ["Chair","GAMM member","MaRDI"]
+chair: "Chair"
+tags: ["RSE","RDM"]
+memberships: ["GAMM","MaRDI"]
+country: "Germany"
 externalUrl: "https://www.mpi-magdeburg.mpg.de/person/26697/2311"
 showTaxonomies: true
 showDate: false

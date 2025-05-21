@@ -1,6 +1,10 @@
 ---
 title: "Jan Philipp Thiele"
-tags: ["Chair","GAMM member","de-RSE member"]
+chair: "Chair"
+tags: ["RSE","RDM"]
+memberships: ["DE-RSE","GAMM"]
+country: "Germany"
+pronouns: "he/him"
 externalUrl: "https://github.com/jpthiele"
 showTaxonomies: true
 showDate: false
