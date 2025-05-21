@@ -61,7 +61,10 @@ and replace the angle brackets with the matching information.
 ```md 
 ---
 title: "<Your_Name>"
-tags: ["<tag_1>","<tag_2>","<tag_3>",...]
+tags: ["RSE","RDM"]
+memberships: ["<org_1>","<org_2>"]
+country: "<Your_country_of_residence>"
+pronouns: "<your_preferred_pronouns>"
 externalUrl: "<link_to_your_website>"
 showTaxonomies: true
 showDate: false
@@ -69,21 +72,30 @@ weight: 1
 ---
 
 ```
-
-The tags are used to show everyone what related initiatives and organizations 
-you are a part of.
-If you don't want to add any you can remove the whole line.
+The two tags are used to show everyone if you are interested in RSE and/or RDM,
+if you are only interested in one simply remove the other.<br>
+Under *memberships* you can list RSE or RDM related organizations 
+that you are a member of.<br>
+We would like to have an overview on which countries are represented in our group,
+so please add your country of residence.<br>
+You can also list the gender pronouns you prefer,
+but we don't expect you to, so feel free to delete that line.
 
 
 As an example my *index.md* looks like this:
+
 ```md
 ---
 title: "Jan Philipp Thiele"
-tags: ["Chair","GAMM member","de-RSE member"]
+chair: "Chair"
+tags: ["RSE","RDM"]
+memberships: ["DE-RSE","GAMM"]
+country: "Germany"
+pronouns: "he/him"
 externalUrl: "https://github.com/jpthiele"
 showTaxonomies: true
 showDate: false
-weight: 0 # so chairs are in the front
+weight: 0 # so the chairs are up front
 ---
 ```
 
