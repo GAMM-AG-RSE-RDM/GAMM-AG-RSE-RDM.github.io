@@ -2,6 +2,8 @@
 title: "Allies"
 groupByYear: false
 showDate: false
+showReadingTime: false
+showWordCount: false
 ---
 
 ![HiRSE Logo](img/hirse.jpg)
