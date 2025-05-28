@@ -13,6 +13,6 @@ It will probably held in Braunschweig at the end of November or beginning of Dec
 More information will follow once the poll is closed.
 
 If you want to participate in the poll, feel free to
-{{< button href="mailto:gamm-rse+rdm-chairs@listserv.dfn.de" >}}
+{{< button href="mailto:FA_RSE-RDM@gamm.org" >}}
 {{<icon "envelope">}} Contact the Chairs
 {{</ button >}}
