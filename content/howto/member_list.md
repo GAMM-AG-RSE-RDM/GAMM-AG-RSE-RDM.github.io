@@ -92,7 +92,7 @@ tags: ["RSE","RDM"]
 memberships: ["DE-RSE","GAMM"]
 country: "Germany"
 pronouns: "he/him"
-externalUrl: "https://github.com/jpthiele"
+externalUrl: "https://www.tu-braunschweig.de/ub/wir-ueber-uns/ansprechpersonen-organigramm/jan-philipp-thiele"
 showTaxonomies: true
 showDate: false
 weight: 0 # so the chairs are up front
