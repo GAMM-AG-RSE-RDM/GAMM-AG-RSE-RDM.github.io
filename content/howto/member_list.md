@@ -33,7 +33,11 @@ In your terminal/console navigate to a folder where you want to download the rep
 ```bash
 git clone <link> 
 ```
-change into the new folder and switch to a new branch
+then go to the directory of the cloned repository and fetch submodules:
+```bash
+git submodule update --init --recursive
+```
+and switch to a new branch
 ```bash
 git switch --create <branch_name>
 ```
