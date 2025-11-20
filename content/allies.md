@@ -23,3 +23,9 @@ This group of active RSEs in the Max Planck society is currently in the process 
 # NFDI@MPG
 
 This internal working group was established by the President of the Max Planck Society and is led by Erwin Laure ([MPCDF](https://www.mpcdf.mpg.de/)) and Peter Benner ([MPI DCTS](https://www.mpi-magdeburg.mpg.de)). It coordinates the activities of Max Planck researchers within the [NFDI](https://www.nfdi.de). The group fosters active exchange between Max Planck institutes and NFDI consortia at annual workshops.
+
+# Suresoft 
+
+![Suresoft Logo](img/Suresoft_Logo.png)
+
+[Suresoft](https://suresoft.dev/) (Sustainable Research Software) is a DFG funded project at [TU Braunschweig](https://www.tu-braunschweig.de/suresoft) and [FAU Erlangen-Nürnberg](https://sys.cs.fau.de/research/suresoft) fostering the sustainability of research software by helping researchers adopt practices and tools from the software engineering community. 
