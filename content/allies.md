@@ -6,6 +6,10 @@ showReadingTime: false
 showWordCount: false
 ---
 
+# GI Fachgruppe RSE
+The [Fachgruppe RSE](https://fg-rse.gi.de/) is a joint group of [Gesellschaft für Informatik e.V. (GI)](https://gi.de/) and [de-RSE e.V.](https://de-rse.org/en/index.html).
+The group aims to be a forum for the interfacing between Software Engineering Research and the RSE Community.
+
 # HiRSE
 
 ![HiRSE Logo](img/hirse.jpg)
