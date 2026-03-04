@@ -10,6 +10,6 @@ authors:
 ---
 
 The second meeting of the GAMM Activity Group on Research Software Engineering and Research Data Management in Mathematics & Mechanics
-will be held on 23.-24.11.2026 at the University of Cologne.
+will be held on [23.-24.11.2026 at the University of Cologne](https://events.hifis.net/event/3698/).
 
 More information concerning registration and schedule will follow.
