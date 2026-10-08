@@ -1,5 +1,5 @@
 ---
-title: "Save the Date: 2nd Workshop, Nov 23-24, 2026"
+title: "Save the Date: 2nd Workshop, Dec 1-2, 2026"
 date: 2026-01-09
 draft: false
 showHero: true
@@ -10,6 +10,6 @@ authors:
 ---
 
 The second meeting of the GAMM Activity Group on Research Software Engineering and Research Data Management in Mathematics & Mechanics
-will be held on [23.-24.11.2026 at the University of Cologne](https://events.hifis.net/event/3698/).
+will be held on [1.-2.12.2026 at the University of Cologne](https://events.hifis.net/event/3698/).
 
 More information concerning registration and schedule will follow.
