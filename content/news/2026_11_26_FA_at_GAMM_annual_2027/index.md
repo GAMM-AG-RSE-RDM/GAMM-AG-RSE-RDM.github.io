@@ -15,7 +15,7 @@ activity group, you can join our dedicated Session in S22 by leaving a
 comment pointing this out in the additional information about your
 submission.
 
-Also, the activity group spokesperson's have successfully applied for
+Also, the activity group spokespersons have successfully applied for
 __MS 1 Benchmarking in applied mathematics and mechanics__, featuring 6
 contributions on various topics around benchmarking in development and
 practice, on your notebook or your HPC cluster, supporting tools,
